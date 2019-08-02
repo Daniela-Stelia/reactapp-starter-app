@@ -1,15 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. install https://nodejs.org/en/ in the computer
+2. select a folder for you project
+3. after instalation run in your terminal:
 
-## Available Scripts
+    npx create-react-app my-app-name
+    cd my-app-name
+    npm start
 
-In the project directory, you can run:
+when instalation finished
+[http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
 
